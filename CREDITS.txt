@@ -1,6 +1,10 @@
 # Image Credits
 
 All images courtesy of Unsplash (https://unsplash.com).
+- Mikael Kristenson (https://unsplash.com/photos/3aVlWP-7bg8)
+- Annie Spratt (https://unsplash.com/photos/sggw4-qDD54)
+- National Cancer Institute (https://unsplash.com/photos/fTQHPb6r4wQ)
+- Joel Muniz (https://unsplash.com/photos/y3ZY6qFln_g)
 - Dimitry Anikin (https://unsplash.com/photos/QgGmT-Fcrug)
 - Alex Wong (https://unsplash.com/?photo=ssrbaKvxaos)
 - Jordan McQueen (https://unsplash.com/?photo=1eWaod96d3k)
